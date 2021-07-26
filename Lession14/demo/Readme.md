@@ -1,5 +1,5 @@
 1. Them people
-![src](images/1.png)
+![alt](src/images/1.png)
 
 2. Danh sach people
 
