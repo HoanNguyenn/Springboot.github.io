@@ -9,6 +9,7 @@
 
 4. Sua people
 ![alt](src/images/4.png)
+<<<<<<< HEAD
 
 5. List Job
 ![alt](src/images/5.png)
@@ -18,3 +19,5 @@
 
 7. Them Job
 ![alt](src/images/7.png)
+=======
+>>>>>>> 9095b2b87e751159980f71c9483636e17d35c5c1
