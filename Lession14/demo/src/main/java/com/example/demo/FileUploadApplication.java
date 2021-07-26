@@ -13,7 +13,7 @@ public class FileUploadApplication {
 		SpringApplication.run(FileUploadApplication.class, args);
 	}
 
-    //Cau hinh de load anh tu thu muc photos sang thu muc static/photo
+    //Cau hinh de load anh tu thu muc photos sang thu muc static/photos
     @Configuration
     public class WebConfig implements WebMvcConfigurer{
 	  @Override
